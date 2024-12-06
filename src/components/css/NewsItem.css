@@ -1,0 +1,14 @@
+.card:hover .card-img-top {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+  }
+.card-img-top{
+    height: 300px;
+}  
+.source-name{
+  position: absolute;
+  right: 0;
+  font-weight: bold;
+  background-color: rgb(196, 5, 5);
+}
+
